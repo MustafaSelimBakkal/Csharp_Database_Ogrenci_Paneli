@@ -1,0 +1,14 @@
+C:\Users\bakka\source\repos\kutuphane\kutuphane\bin\Debug\kutuphane.exe.config
+C:\Users\bakka\source\repos\kutuphane\kutuphane\bin\Debug\kutuphane.exe
+C:\Users\bakka\source\repos\kutuphane\kutuphane\bin\Debug\kutuphane.pdb
+C:\Users\bakka\source\repos\kutuphane\kutuphane\bin\Debug\System.Data.SqlClient.dll
+C:\Users\bakka\source\repos\kutuphane\kutuphane\bin\Debug\System.Data.SqlClient.xml
+C:\Users\bakka\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.AssemblyReference.cache
+C:\Users\bakka\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakka\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.Form1.resources
+C:\Users\bakka\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.Properties.Resources.resources
+C:\Users\bakka\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.GenerateResource.cache
+C:\Users\bakka\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\bakka\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.CopyComplete
+C:\Users\bakka\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.exe
+C:\Users\bakka\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.pdb
